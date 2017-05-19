@@ -1,0 +1,232 @@
+/* 前段工程师 */
+header{
+	width: 100%;
+	height: 0.92rem;
+	background: #0078e6 url('../img/A1.png') no-repeat center center;
+	background-size: auto 0.92rem;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 20;
+}
+body{
+	background: #f5f6fa;
+}
+.banner{
+	width: 100%;
+	height: 2.8rem;
+	background:  url('../img/banner_01.png') no-repeat center center;
+	background-size: cover;
+	font-size: 0.30rem;
+	text-align: center;
+	line-height: 2.8rem;
+	color: white;
+	margin-top: 0.92rem;
+}
+.ddd{
+	margin-left: 1.2rem;
+}
+.banner pre .ju{
+	color: #ef8b00;
+}
+.banner pre span{
+	color: #00b5f7;
+}
+/* 关于我们 */
+nav{
+	width: 100%;
+	height: auto;
+
+}
+nav .neikuan1{
+	margin: 0 0.24rem;
+	height: 0.82rem;
+	background: #f5f6fa;
+	line-height: 0.82rem;
+	color: #494747;
+	font-size: 0.22rem;
+}
+.neikuan1 a{
+	color: black;
+}
+.neikuan2{
+	margin: 0 0.24rem;
+	height: 2.26rem;
+	background: white;
+	line-height: 0.82rem;
+	color: #494747;
+    font-size: 0.23rem;
+    margin-bottom: 0.1rem;
+}
+.neikuan2 ul{
+	width: 6.08rem;
+	height: 100%;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.neikuan2 ul li{
+	width: 1.21rem;
+	height: 100%;
+	text-align: center;
+	padding-top: 0.28rem;
+	box-sizing: border-box;
+}
+.neikuan2 ul a{
+	width: 1.21rem;
+	height: 1.21rem;
+	display: block;
+	border-radius: 50%;
+}
+.neikuan2 ul a img{
+	width: 1.21rem;
+	height: 1.21rem;
+	display: block;
+	border-radius: 50%;
+}
+.neikuan22{
+	margin-left: 0.42rem;
+	margin-right: 0.2rem;
+	height: 0.67rem;
+	background: white;
+	line-height: 0.82rem;
+	border-bottom: 1px dashed #999999;
+	position: relative;
+	
+}
+.neikuan22 p{
+	font-size: 0.23rem;
+}
+.neikuan22 .lantiao{
+	width: 0.04rem;
+	height: 0.2rem;
+	background: #01b5ff;
+	position: absolute;
+	left: -0.15rem;
+	bottom: 0.15rem;
+}
+.guanyu{
+	margin: 0 0.24rem;
+	height: auto;
+	background: white;
+	margin-bottom: 0.1rem;
+	font-size: 0.24rem;
+}
+.guanyu .kk{
+	text-align: center;
+}
+.neikuan23{
+	margin-left: 0.42rem;
+	margin-right: 0.2rem;
+	height: auto;
+	background: white;
+	font-size: 0.23rem;
+	color: #666666;
+	padding-top: 0.15rem;
+	padding-bottom: 0.3rem;
+}
+.neikuan24{
+	margin-left: 0.42rem;
+	margin-right: 0.2rem;
+	height: 5.09rem;
+	background: url('../img/about_05.png') no-repeat center center;
+	background-size: contain;
+	font-size: 0.23rem;
+	color: #666666;
+	padding-top: 0.15rem;
+}
+.neikuan25{
+	margin-left: 0.42rem;
+	margin-right: 0.2rem;
+	height: 4.88rem;
+	font-size: 0.23rem;
+	color: #666666;
+	padding-top: 0.15rem;
+}
+.neikuan25 ul{
+    width: 100%;
+    height: 4.86rem;
+}
+.neikuan25 li{
+    width: 100%;
+    height: 0.56rem;
+    margin-top: 0.2rem;
+}
+.neikuan25 ul .wenzi{
+	width: 5.8rem;
+	height: 0.56rem;
+    display: inline-block;
+    font-size: 0.2rem;
+    color: #01b5ff;
+    margin-top: 0;
+   line-height: 0.27rem;
+}
+.neikuan25 ul .wenzi p{
+    font-size: 12px;
+    color: black;
+}
+.neikuan25 ul img{
+    width: 0.56rem;
+	height: 0.56rem;
+    float: left;
+
+}
+.neikuan26{
+	margin-left: 0.42rem;
+	margin-right: 0.2rem;
+	height: 4rem;
+	color: #666666;
+	padding-top: 0.15rem;
+}
+.neikuan26 .lie{
+	float: left;
+}
+.neikuan26 .lie1{
+	width: 1rem;
+	height: 4rem;
+	color: #666666;	
+	
+}
+.neikuan26 .lie2{
+	width: 1.85rem;
+	height: 4rem;
+	color: #666666;	
+}
+.neikuan26 .lie3{
+	width: 3.46rem;
+	height: 4rem;
+	color: #666666;	
+	
+}
+.neikuan26 li{
+	width: 100%;
+	height: 0.59rem;
+	line-height: 0.57rem;
+	text-align: center;
+    list-style: none;
+}
+.neikuan26 ul{
+	padding-top: 0.2rem;
+	box-sizing: border-box;
+	font-size: 12px;
+}
+.guanyu .neikuan27{
+	margin-left: 0.42rem;
+	margin-right: 0.2rem;
+	height: 4.3rem;
+	background: url('../img/about_12.png') no-repeat center center;
+	background-size: contain;
+}
+.neikuan23 p{
+	color: #01b5ff;
+}
+/* 尾部 */
+footer{
+	width: 100%;
+	height: 1.3rem;
+	box-sizing: border-box;
+    text-align: center;
+    color: #666666;
+    font-size: 0.16rem;
+}
