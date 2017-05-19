@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+body{
+	font-family:"微软雅黑"；
+	font-size: 0.12rem;
+}
+ul{
+	list-style: none;
+}
+/* input:focus{
+	outline: none;
+} */
